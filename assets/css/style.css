@@ -232,7 +232,9 @@ sup {
     top: 198px;
     left: 148px;
 }
-
+ul{
+    padding-left: 0;
+}
 .sun {
     position: absolute;
     top: 136px;
