@@ -26,7 +26,7 @@
     --bs-blue: #00000017;
     --bs-darkblue: #0000000A;
     --bs-white: #FFFFFF;
-    --bs-darkred:#FF586E47;
+    --bs-darkred: #FF586E47;
 }
 
 .yellow-orange {
@@ -433,7 +433,7 @@ sup {
 }
 
 .py90 {
-    padding-top: 90px;
+    padding-top: 199px;
     padding-bottom: 90px;
 }
 
@@ -577,6 +577,11 @@ sup {
     .py100 {
         padding-top: 100px;
         padding-bottom: 100px;
+    }
+
+    .py90 {
+        padding-top: 90px;
+        padding-bottom: 90px;
     }
 }
 
